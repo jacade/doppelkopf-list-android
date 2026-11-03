@@ -1,0 +1,6 @@
+{
+  "summary":  "Überarbeiteter Implementierungsplan mit zwei Eingabemodi (Schnellmodus als Default, Ausführlicher Modus), exponentiellen Bockrunden (x2, x4, x8, x16), Geber-Rotation, Spielwert-Spalte und Unterstützung für 0-Punkte-Spiele.",
+  "updatedAt":  "2026-10-31T10:16:32.297176484Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
